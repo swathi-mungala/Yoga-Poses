@@ -18,7 +18,8 @@ body {
 }
 
 .heading {
-    color: var(--secondary-color);
+    /* color: var(--secondary-color); */
+    color: var(--purple);
 }
 
 .heading span {
